@@ -1,0 +1,18 @@
+{
+  "uuid": "e71d1d21-fa23-4aa7-9786-c778c9149812",
+  "shortName": "Poromodo",
+  "longName": "Poromodo",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
